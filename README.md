@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lulin22
-- 👀 I’m interested in data science, machine learning and quantitative research
-- 🌱 I’m currently seeking fultime oppotunity in the above fields
-- 💞️ I’m looking to collaborate on projects that aim for a better world
-- 📫 Reach me through linlu0325@gmail.com or https://www.linkedin.com/in/lu-lin-089a90121/
+- 👩‍🎓My academic background lies in data science, machine learning and quantitative research
+- 🌱 I'm passionate to understand the world a bit more from a analytic aspect 
+- 💞️ It would make me very happy if my projects are part of reasons for a better world
+- 📫 If you have any cool project idea, welcome to shoot me a message through linlu0325@gmail.com or https://www.linkedin.com/in/lu-lin-089a90121/
 
 <!---
 lulin22/lulin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
