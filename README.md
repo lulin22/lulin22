@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lulin22
-- 👩‍🎓My academic background lies in data science, machine learning and quantitative research
+- 👩‍🎓 My academic background lies in data science, machine learning and quantitative research
 - 🌱 I'm passionate to understand the world a bit more from a analytic aspect 
 - 💞️ It would make me very happy if my projects are part of reasons for a better world
 - 📫 If you have any cool project idea, welcome to shoot me a message through linlu0325@gmail.com or https://www.linkedin.com/in/lu-lin-089a90121/
